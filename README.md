@@ -25,6 +25,3 @@
 
 - [ ] Testes Automáticos + Curso COMPLETO de Teste de Software [Curso](https://www.udemy.com/course/teste-software-completo-testes-automaticos/)
 
-  
-
-# 

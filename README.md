@@ -1,6 +1,6 @@
 ## Cursos e Certificados :books:
 
-#### Concluídos :white_check_mark:
+#### **Concluídos** :white_check_mark:
 
 ------
 
@@ -20,18 +20,14 @@
 
 ------
 
-#### Em Progresso 🧑‍💻
-
-------
+#### **Em Progresso** 🧑‍💻
 
 - [ ] AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon 
   
 
 ------
 
-#### Próximos Cursos :arrows_clockwise:
-
-------
+#### **Próximos Cursos** :arrows_clockwise:
 
 - [ ] Metodologias Ágeis (XP, Scrum, Lean e Kanban) 
 

@@ -12,11 +12,11 @@
 - [x] Aplicando Conceitos de Coleções, Arrays e Listas [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/Aplicando%20Conceitos%20de%20Cole%C3%A7%C3%B5es%20Arrays%20e%20Listas.pdf)
 - [x] Introdução a Qualidade de Software [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/Introdu%C3%A7%C3%A3o%20a%20Qualidade%20de%20Software.pdf)
 - [x] Implementando testes automatizados usando Cypress em uma aplicação Angular [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/Implementando%20testes%20automatizados%20usando%20Cypress%20em%20uma%20aplica%C3%A7%C3%A3o%20Angular%20.pdf)
-- [x] Curso completo de Banco de Dados e SQL [Certificado]()
+- [x] Curso completo de Banco de Dados e SQL [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/Curso%20completo%20de%20Banco%20de%20Dados%20e%20SQL.pdf)
 - [x] SQL SERVER - Criando consultas [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/SQL%20Server%20-%20Criando%20suas%20primeiras%20consultas.pdf)
-- [x] Introdução ao Desenvolvimento Moderno de Softwares [Certificado]()
+- [x] Introdução ao Desenvolvimento Moderno de Softwares [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Softwares.pdf)
 - [x] AWS Compute Services Overview [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/AWS%20Compute%20Services%20Overview.pdf)
-- [x] AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon [Certificado]()
+- [x] AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon [Certificado](https://github.com/thauamoreira/Estudos-e-Certificados/blob/master/Certificados/AWS%20para%20Iniciantes%202022%20-%20Aprenda%20e%20Domine%20a%20nuvem%20Amazon.pdf)
 
 ------
 

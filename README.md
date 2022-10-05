@@ -23,7 +23,10 @@
 #### **Em Progresso** 🧑‍💻
 
 - [ ] Bootcamp Cloud DevOps Experience - Banco Carrefour
-  
+
+- [x] Introdução ao Sistema Operacional Linux [Certificado]()
+- [x] Instalando o Linux [Certificado]()
+- [x] Acesso Remoto a Máquinas Linux [Certificado]()
 
 ------
 
